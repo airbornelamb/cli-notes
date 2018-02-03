@@ -11,7 +11,7 @@ This project contains only two simple things which are contained in this readme:
 
 ## Installing
 
-You must first install (ripgrep)[https://github.com/BurntSushi/ripgrep] and (fzf)[https://github.com/junegunn/fzf]. Below is the easiest way to do that.
+You must first install [ripgrep](https://github.com/BurntSushi/ripgrep) and [fzf](https://github.com/junegunn/fzf). Below is the easiest way to do that.
 
 1. Paste this section at the top of your vimrc, which will cause vim to install ripgrep
 
@@ -35,7 +35,7 @@ Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 
 3. Run your plugin updater, for example `vim :PlugUpdate` for Plug
 
-4. Lastly, copy the following into your shell rc file (.zshrc, .bashrc etc...). I have the NOTESDIR as the default for (Syncthing)[https://syncthing.net/], which is awesome.
+4. Lastly, copy the following into your shell rc file (.zshrc, .bashrc etc...). I have the NOTESDIR as the default for [Syncthing](https://syncthing.net/), which is awesome.
 
 ```bash
 export NOTESDIR="$HOME/Sync/notes"
