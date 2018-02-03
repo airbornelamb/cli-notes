@@ -6,7 +6,7 @@ I got tired of paying for Evernote and searched endlessly for a note system that
 
 This project contains only two simple things which are contained in this readme:
 
-1. An optional append to vimrc that will install FZF and ripgrep for you
+1. An append to vimrc that will install FZF and ripgrep for you
 2. A shell alias and functions to wrap those tools into something usable for notes
 
 ## Installing
