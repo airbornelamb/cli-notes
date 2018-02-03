@@ -2,7 +2,7 @@
 
 I got tired of paying for Evernote and searched endlessly for a note system that was flexible and extremely fast. I wanted it all: plaintext markdown notes in simple folders with fulltext search. Yet everything out there seemed to compromise in one of these areas.
 
-# Getting Started
+## Getting Started
 
 This project contains only two simple things which are contained in this readme:
 
